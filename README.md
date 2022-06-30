@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @NandoScout , a Software Engineer
+- 👋 Hi, I’m Fernando, a Software Engineer from Argentina
 - 👀 I’m interested in get the best work for my family.
-- 🌱 I’m currently learning R and data science.
-- 📫 How to reach me: https://www.linkedin.com/in/fernandobroqua
-
-<!---
-NandoScout/NandoScout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✨ I feel good in analysis, design, logic, security and migration of systems and data.
+- 📚 I’m currently learning data science.
+- 👨‍💻 I'm currently coding in Node.js and Python
+- 📫 How to reach me: https://linktr.ee/fbroqua
