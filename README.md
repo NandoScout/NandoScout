@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Fernando, a Software Engineer from Argentina
+- 👋 Hi, I’m Fernando, an experienced Software Engineer from Argentina
 - 👀 I’m interested in get the best work for my family.
-- ✨ I feel good in analysis, design, logic, security and migration of systems and data.
+- ✨ I'm good in analysis, design, security, PM, logic and process improvement,
+  migration of systems and data.
 - 📚 I’m currently learning data science.
-- 👨‍💻 I'm currently coding in Node.js and Python
+- 👨‍💻 I'm currently coding in Node.js, Vue 3, PHP and Python
 - 📫 How to reach me: https://linktr.ee/fbroqua
